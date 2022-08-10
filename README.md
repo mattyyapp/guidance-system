@@ -9,11 +9,11 @@ $GS is a multichain (likely non fungible) token that rewards defi users/content 
 - original threads or content with x amount of views (defined metric)
 
 $GS (Incentives):
-is worth $____
-gets dividends/rebases at ____ % APR (low/entry tier)
-ve-nomics, lock $GS for $veGS to boost %APR and for governance
-can be combined to randomly get higher tier $GS think rarity of trading cards - common GS, uncommon GSU, rare GSR, ultra rare
-higher rarity GSR and GSUR, get higher % APR
+- is worth $____
+- gets dividends/rebases at ____ % APR (low/entry tier)
+- ve-nomics, lock $GS for $veGS to boost %APR and for governance
+- can be combined to randomly get higher tier $GS think rarity of trading cards - common GS, uncommon GSU, rare GSR, ultra rare
+- higher rarity GSR and GSUR, get higher % APR
 
 $ Inflow for the project 
 - Investors invest in education + content creation movement as fair launch vested tokens, released in drops.
