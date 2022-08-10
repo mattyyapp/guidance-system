@@ -17,7 +17,7 @@ $GS (Incentives):
 
 $ Inflow for the project 
 - Investors invest in education + content creation movement as fair launch vested tokens, released in drops.
-- Grants from blockchains to grow their adoption (think project Galaxy https://galaxy.eco/)
+- Grants from blockchains / projects to grow their adoption (think project Galaxy https://galaxy.eco/)
 
 Revenue generation of project
 - Royalty fees when $GS is traded or burning to combine
