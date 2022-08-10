@@ -3,7 +3,7 @@ Increasing user adoption of protocols/NFTs/products through a tokenized ecosyste
 
 for now it will be known as GS (guidance system) ie the space guidance system for space shuttles
 
-$GS is a multichain (likely non fungible) token that rewards defi users/content creators for onboarding, completing learning tasks ie
+$GS is a multichain (likely non fungible) token that rewards defi users/content creators for guidance, onboarding, completing learning tasks ie
 - reporting scammers / exploits 
 - screenshots and discord link of "help! How do I do this?", explaining, up till user says "thanks that works!"
 - original threads or content with x amount of views (defined metric)
@@ -21,3 +21,8 @@ $ Inflow for the project
 
 Revenue generation of project
 - Royalty fees when $GS is traded or burning to combine
+
+$ Outflow for the project
+- Salaries
+- Grants (campaigns for users/creators) in tokens
+- Rebases 
